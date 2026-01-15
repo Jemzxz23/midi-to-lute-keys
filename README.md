@@ -1,3 +1,10 @@
+## Disclaimer / Warning
+
+This project is provided for **educational purposes only**.
+
+It sends automated keyboard inputs to another application. Do not use it to break any game/app rules, violate Terms of Service, bypass anti-cheat, or gain unfair advantage. Use only in environments where automation is permitted, and the author(s) assume no responsibility for misuse.
+
+
 # MIDI → Lute Keys Player (GUI)
 
 A Python GUI that plays `.mid/.midi` files by converting MIDI notes into QWERTY keypresses for a 7-note solfege “lute/lyre” layout.
